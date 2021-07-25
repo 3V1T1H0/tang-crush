@@ -14,3 +14,4 @@
     messDesc: 'nhắn cho anh luôn đi công chúa.',
     btnAccept: 'Okiiiii lun <3',
     messLink: 'https://www.messenger.com/giang.ai.98/'
+     }
