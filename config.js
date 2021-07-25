@@ -5,13 +5,15 @@ const CONFIG = {
     btnIntro: 'hihi',
     title: 'Phải chăng anh đã yêu ngay từ cái nhìn đầu tiên 😙',
     desc: 'Phải chăng anh đã say ngay từ lúc thấy nụ cười ấy ',
+    
+    
     btnYes: 'ta còn cơ hội mà 🥰',
     btnNo: 'Thôi, FRIENDZONE  :3',
     question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
     btnReply: 'Gửi cho anh <3',
     reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
     mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
-    messDesc: 'Cho anh biết nhé công chúa.',
+    messDesc: 'Nhắn cho anh nhé công chúa.',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://www.facebook.com/messages/t/100011721156656' 
+    messLink: 'https://www.facebook.com/giang.ai.98/' 
 }
