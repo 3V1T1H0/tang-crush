@@ -1,4 +1,4 @@
-const CONFIG = {
+     = {
     introTitle: 'Babe à!',
     introDesc: `Lý trí nói quên nhưng ...
     tim nói nhớ`,
