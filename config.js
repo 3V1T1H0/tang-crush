@@ -3,8 +3,8 @@ const CONFIG = {
     introDesc: `Nghĩ nói quên nhưng ...
        tim nói nhớ`,
     btnIntro: 'hihi',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
+    title: 'Phải chăng anh đã yêu ngay từ cái nhìn đầu tiên 😙',
+    desc: 'Phải chăng anh đã say ngay từ lúc thấy nụ cười ấy ',
     btnYes: 'ta còn cơ hội mà 🥰',
     btnNo: 'Thôi, FRIENDZONE  :3',
     question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
